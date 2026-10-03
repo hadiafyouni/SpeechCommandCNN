@@ -1,7 +1,7 @@
 """
 Speech command classification: CNN on log-mel spectrograms.
 10 command words + an "unknown" class (any other word, noise or silence).
-(originally LabML21_speechcmd_CNN.py)
+
 
 Dataset: Google Speech Commands (Kaggle, ~1 GB), unzipped so the word folders
 sit directly in data/speech_commands/ (yes/, no/, ..., _background_noise_/).

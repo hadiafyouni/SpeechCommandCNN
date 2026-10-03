@@ -45,8 +45,6 @@ python marvin_game.py
 
 The trained models are already in `models/`, so **the apps run without the dataset**. You only need the dataset (section 6) to retrain.
 
-> On the original development machine the virtual environment lives one folder up (`Documents/Ai/.venv`), and VS Code is configured to use it. A terminal opened inside VS Code activates it automatically.
-
 ---
 
 ## 2. The three ways to use it
@@ -87,7 +85,7 @@ The screenshot shows a recording of a silent room. The model correctly answers *
 ## 3. Project structure
 
 ```
-HadiAfyouniProject/
+SpeechCommandCNN/
 ├── README.md
 ├── requirements.txt
 │
