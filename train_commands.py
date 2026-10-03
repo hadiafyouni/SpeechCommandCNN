@@ -120,7 +120,7 @@ if not os.path.exists(config.COMMAND_CACHE):
     var = {"X": X,
            "y": y,
            "Class_words": class_names,
-           "Students": 'ESIGELEC Univ',
+           "Students": 'Hadi Afyouni',
            "date": date.today(),
            "param": ['log-mel-spectrogram', frame_length, frame_step, fft_length, num_mel_bins]
            }

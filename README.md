@@ -10,7 +10,7 @@ A speech-recognition project built on two convolutional neural networks (CNNs) t
   <img src="docs/figures/marvin_game.png" width="480" alt="Marvin game: the robot has just collected a star and says yes">
 </p>
 
-The project started as ESIGELEC machine-learning lab **LabML21**: a 10-word classifier with push-to-talk. It was then extended with an "unknown" class, a wake word, always-on listening and the game.
+The project started as lab **LabML21** of a machine-learning course: a 10-word classifier with push-to-talk. It was then extended with an "unknown" class, a wake word, always-on listening and the game.
 
 ---
 
@@ -366,5 +366,5 @@ Problems hit while making this run live, and how they were solved. The model was
 ## 11. Credits
 
 - **Dataset:** Speech Commands v0.01, Pete Warden (Google), CC BY 4.0. Warden, P. (2018). *Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition.* arXiv:1804.03209.
-- **Course:** ESIGELEC, Machine Learning labs (LabML21). The original lab report and presentation are in `docs/`.
+- **Course:** Machine Learning labs (LabML21), starting from the instructor's lab code. The original lab report and presentation are in `docs/`.
 - **Libraries:** TensorFlow/Keras, NumPy, SciPy, scikit-learn, pandas, Matplotlib, sounddevice, Tkinter.

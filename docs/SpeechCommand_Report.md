@@ -1,7 +1,6 @@
 # Speech Command Classification — Project Report
 
 **Author:** Hadi Afyouni
-**Institution:** ESIGELEC Univ
 **Date:** 2026-06-11
 **File:** `LabML21_speechcmd_CNN.py`
 

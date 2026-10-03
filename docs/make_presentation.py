@@ -82,8 +82,7 @@ ax.text(W / 2, 4.8, 'Speech Command Classification', fontsize=34,
 ax.text(W / 2, 3.9, 'Differentiating Spoken Commands with a CNN on Mel-Spectrograms',
         fontsize=16, color='#9bbce0', ha='center', va='center')
 ax.text(W / 2, 2.4, 'Hadi Afyouni', fontsize=18, color='white', ha='center')
-ax.text(W / 2, 1.9, 'ESIGELEC Univ', fontsize=14, color='#9bbce0', ha='center')
-ax.text(W / 2, 1.4, 'Deep Learning Project  -  2026', fontsize=12, color='#9bbce0', ha='center')
+ax.text(W / 2, 1.9, 'Deep Learning Project  -  2026', fontsize=12, color='#9bbce0', ha='center')
 pdf.savefig(fig); plt.close(fig)
 
 # ============== Slide 2: Objective ==============
