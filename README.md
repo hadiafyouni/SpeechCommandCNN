@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project was developed locally in July 2026 and published to GitHub afterwards, so the commit history here doesn't reflect how it was built.
+
 # Marvin — Voice Commands with a Wake Word
 
 A speech-recognition project built on two convolutional neural networks (CNNs) that turn short spoken words into actions, running live on a laptop CPU.
